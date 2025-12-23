@@ -1,0 +1,5 @@
+{
+  "name": "Sim Race Planner",
+  "description": "A high-performance session organizer for F1 simulator enthusiasts to manage drivers, tracks, wildcards, and scores.",
+  "requestFramePermissions": []
+}
